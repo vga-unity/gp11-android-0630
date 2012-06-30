@@ -25,7 +25,7 @@ function SetBrakeTorque(torque : float) {
 }
 
 function Update() {
-	if (Input.GetButton("Fire1")) {
+	if (Input.GetButton("Jump")) {
 		var rpm = (rearTires[0].rpm + rearTires[1].rpm) / 2.0;
 		SetMotorTorque(RpmToTorque(rpm));
 		SetBrakeTorque(0.0);
