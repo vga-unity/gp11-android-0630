@@ -3,6 +3,10 @@ guid: e864151f7e866452492344ff36b7c08b
 ModelImporter:
   fileIDToRecycleName:
     4300000: Ground
+    4300002: Wall
+    4300004: Wall.1
+    4300006: Wall.2
+    4300008: Wall.3
   serializedVersion: 10
   materials:
     importMaterials: 0
@@ -20,7 +24,7 @@ ModelImporter:
     clipAnimations: []
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .100000001
     meshCompression: 0
     addColliders: 0
     swapUVChannels: 0
@@ -50,3 +54,55 @@ ModelImporter:
       data:
         first: 33
         second: a05a3200
+    Wall:
+      data:
+        first: 1
+        second: a8860100
+      data:
+        first: 4
+        second: 881a0600
+      data:
+        first: 23
+        second: 68182300
+      data:
+        first: 33
+        second: a85a3200
+    Wall.1:
+      data:
+        first: 1
+        second: a6860100
+      data:
+        first: 4
+        second: 861a0600
+      data:
+        first: 23
+        second: 66182300
+      data:
+        first: 33
+        second: a65a3200
+    Wall.2:
+      data:
+        first: 1
+        second: a4860100
+      data:
+        first: 4
+        second: 841a0600
+      data:
+        first: 23
+        second: 64182300
+      data:
+        first: 33
+        second: a45a3200
+    Wall.3:
+      data:
+        first: 1
+        second: a2860100
+      data:
+        first: 4
+        second: 821a0600
+      data:
+        first: 23
+        second: 62182300
+      data:
+        first: 33
+        second: a25a3200
