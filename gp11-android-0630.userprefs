@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GeneratorScr.js">
+    <Files>
+      <File FileName="Assets\Scripts\GenericMan.js" Line="16" Column="32" />
+      <File FileName="Assets\Scripts\GeneratorScr.js" Line="18" Column="31" />
+      <File FileName="Assets\Scripts\rader.js" Line="16" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
